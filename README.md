@@ -1,4 +1,3 @@
-# Microsoft-Coding-Challenge
 # Malware Detection System
 
 ## Project Overview
